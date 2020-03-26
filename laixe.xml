@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfLaiXe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LaiXe>
+    <SDT>0912345678</SDT>
+    <HoTen>vu van duc</HoTen>
+    <GioiTinh>true</GioiTinh>
+    <DiaChi>2A Hai Ba Trung Ha Noi</DiaChi>
+    <DOB>1999-10-12T00:00:00</DOB>
+    <Email>vanduc@gmail.com</Email>
+  </LaiXe>
+  <LaiXe>
+    <SDT>0912345543</SDT>
+    <HoTen>Nguyen Van Tinh</HoTen>
+    <GioiTinh>true</GioiTinh>
+    <DiaChi>Cau Giay Ha Noi</DiaChi>
+    <DOB>1990-10-12T00:00:00</DOB>
+    <Email>tinhvan@gmail.com</Email>
+  </LaiXe>
+  <LaiXe>
+    <SDT>0945987654</SDT>
+    <HoTen>Bui Ngoc Xuan</HoTen>
+    <GioiTinh>false</GioiTinh>
+    <DiaChi>Bach Mai Ha Noi</DiaChi>
+    <DOB>2000-08-05T00:00:00</DOB>
+    <Email>ngocxuan@gmail.com</Email>
+  </LaiXe>
+</ArrayOfLaiXe>
